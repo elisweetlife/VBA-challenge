@@ -1,3 +1,4 @@
+
 # VBA-challenge
 Homework2.0 Repository
 This workbook will contain all the files necessary to begin my VBA challenge.
@@ -11,6 +12,7 @@ This workbook will contain all the files necessary to begin my VBA challenge.
 Create a script that will loop through all the stocks for one year for each run and take the following information.
 
 The ticker symbol.
+
 
 Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
 
@@ -42,3 +44,5 @@ A screen shot for each year of your results on the Multi Year Stock Data.
 VBA Scripts as separate files.
 
 After everything has been saved, create a sharable link and submit that to https://bootcampspot-v2.com/.
+
+First ReadmMe Git update
