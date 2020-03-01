@@ -15,7 +15,7 @@ The ticker symbol.
 
 
 Yearly change from opening price at the beginning of a given year to the closing price at the e
-nd of that year.
+'nd of that year.
 
 The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
 
